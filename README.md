@@ -1,4 +1,4 @@
-# SNN-JAST-SpikeNet
+# Binary Spiking Neural Network (BSNN)
 
 <h3 align="center">The Terabrain Project : simulating a billion spiking neurons on a Mac</h3>
 

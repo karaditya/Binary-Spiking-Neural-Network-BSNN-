@@ -8,7 +8,7 @@ The Terabrain Project is a novel approch to attempt a simulation with close to b
 
 
 
-<video src="https://github.com/karaditya/Binary-Spiking-Neural-Network-BSNN-/assets/65095697/d2d344d6-061e-48d7-ac73-ae60a1c8450c" controls="controls" style="max-width: 500px;"></video>
+<video src="https://github.com/karaditya/Binary-Spiking-Neural-Network-BSNN-/assets/65095697/d2d344d6-061e-48d7-ac73-ae60a1c8450c" controls="controls" style="max-width: 50px;"></video>
 
 
 

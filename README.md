@@ -7,4 +7,6 @@ Codes developped by Aditya Kar (PhD) and Jessim Ahdjoudj (Master 2) at the CerCo
 The Terabrain Project is a novel approch to attempt a simulation with close to brainlike numbers of artificial neurons with a bio-inspired approch by the usage of Spiking Neural Networks (SNN).
 
 
-<video src="Binary-Spiking-Neural-Network-BSNN-/Out-of-Core_VIS_TRIMM.mov" controls="controls" style="max-width: 730px;"></video>
+
+https://github.com/karaditya/Binary-Spiking-Neural-Network-BSNN-/assets/65095697/d2d344d6-061e-48d7-ac73-ae60a1c8450c
+

@@ -1,6 +1,6 @@
-# Binary Spiking Neural Network (BSNN)
+# The Terabrain Project : simulating a billion spiking neurons on a Mac
 
-<h3 align="center">The Terabrain Project : simulating a billion spiking neurons on a Mac</h3>
+<h3 align="center">Binary Spiking Neural Network (BSNN)</h3>
 
 Codes developped by Aditya Kar (PhD) and Jessim Ahdjoudj (Master 2) at the CerCo as part of the Terabrain Project. All rights reserved. 
 
